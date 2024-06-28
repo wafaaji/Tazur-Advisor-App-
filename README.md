@@ -27,7 +27,6 @@ The Taazur Advisor App is a platform designed for professional advisors to provi
   <img src="assets/screenshots/company_request.jpg" alt="Company Request" width="300"/>
   <img src="assets/screenshots/company_messages.jpg" alt="Company Messages" width="300"/>
   <img src="assets/screenshots/reply_to_company.jpg" alt="Reply To Company" width="300"/>
-  <img src="assets/screenshots/company_details.jpg" alt="Company Details" width="300"/>
 </div>
 
 **Arabic Screens**
@@ -44,6 +43,6 @@ The Taazur Advisor App is a platform designed for professional advisors to provi
 <div style="display: flex; justify-content: space-between;">
   <img src="assets/screenshots/company_request_arabic.jpg" alt="Company Request" width="300"/>
   <img src="assets/screenshots/company_messages_arabic.jpg" alt="Company Messages" width="300"/>
-  <img src="assets/screenshots/reply_to_company.jpg" alt="Reply To Company" width="300"/>
+ <img src="assets/screenshots/company_details_arabic.jpg" alt="Company Details" width="300"/>
 </div>
 
